@@ -33,3 +33,13 @@ TWO BINARY STRINGS,
 MINIMUM NUMBER OF JUMPS,
 NUMBER INTO MIRROR,
 PREMUTATIONS,
+valid palindrome,
+fizz,
+no.of users in college,
+sammler than current,
+count vowel string,
+roman to intger,
+scramble,
+removed character,
+anagram
+minimum no.of words
