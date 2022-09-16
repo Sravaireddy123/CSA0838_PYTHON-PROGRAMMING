@@ -49,5 +49,4 @@ integer divisible by number,
 square number,
 peak element,
 triangular array,
-shuffle,
-reverse word
+employee salary
