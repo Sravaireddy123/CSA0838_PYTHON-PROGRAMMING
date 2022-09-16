@@ -49,4 +49,6 @@ integer divisible by number,
 square number,
 peak element,
 triangular array,
-employee salary
+employee salary,
+repeating character,
+matrix,
