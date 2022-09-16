@@ -42,9 +42,8 @@ roman to intger,
 scramble,
 removed character,
 anagram
-minimum no.of words
+minimum no.of words,
 words and space,
-
 integer divisible by number,
 square number,
 peak element,
