@@ -44,7 +44,7 @@ removed character,
 anagram
 minimum no.of words
 words and space,
-salary,
+
 integer divisible by number,
 square number,
 peak element,
@@ -52,3 +52,4 @@ triangular array,
 employee salary,
 repeating character,
 matrix,
+reverse words,
